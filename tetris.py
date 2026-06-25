@@ -1,3 +1,4 @@
+# 테트리스 코드
 import pygame
 import sys
 import random
